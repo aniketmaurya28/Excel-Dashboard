@@ -1,4 +1,4 @@
-Walmart Sales dashoard file contains 3 excel workbook Orders, Pivot table and Dashboard respectively.
+Walmart Sales dashoard file contains 3 excel workbook Orders, Pivot table and Dashboard respectively. This is an sample data generated inside the excel dashboard not the official sales data of the Walmart.This is throughly used for learning purpose.
 
 The order file contains the data used to forming pivot table on the basis of Category, Sub-category, Segment and Region wise distribution of sales and profit.
 
@@ -12,7 +12,7 @@ Key Insights from charts and slicers -
 
 - Line charts:
                 - Comparing Segment-wise sales and profit
-                - Quantity-wise product sold by Cub-Category
+                - Quantity-wise product sold by Sub-Category
 
 - Slicers: For Category, Segment and Region
 
