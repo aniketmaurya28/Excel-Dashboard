@@ -1,4 +1,4 @@
-Walmart Sales dashoard file contains 3 excel workbook Orders, Pivot table and Dashboard respectively. This is an sample data generated inside the excel dashboard not the official sales data of the Walmart.This is throughly used for learning purpose.
+Walmart Sales dashboard file contains 3 excel workbook Orders, Pivot table and Dashboard respectively. This is an sample data generated inside the excel dashboard not the official sales data of the Walmart.
 
 The order file contains the data used to forming pivot table on the basis of Category, Sub-category, Segment and Region wise distribution of sales and profit.
 
